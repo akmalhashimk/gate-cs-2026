@@ -29,7 +29,7 @@ export async function generateStudyRecommendations(
       messages: [
         {
           role: "system",
-          content: "You are an AI tutor specialized in GATE CSE exam preparation. Analyze user performance data and provide personalized study recommendations. Return your response as valid JSON in the format: { \"recommendations\": [...] }"
+          content: "You are an AI tutor specialized in GATE CS exam preparation. Analyze user performance data and provide personalized study recommendations. Return your response as valid JSON in the format: { \"recommendations\": [...] }"
         },
         {
           role: "user",
@@ -59,7 +59,7 @@ export async function generateQuestionExplanation(
       messages: [
         {
           role: "system",
-          content: "You are an expert GATE CSE instructor. Provide detailed explanations for questions with key concepts and related topics. Return your response as valid JSON."
+          content: "You are an expert GATE CS instructor. Provide detailed explanations for questions with key concepts and related topics. Return your response as valid JSON."
         },
         {
           role: "user",
@@ -98,11 +98,11 @@ export async function generateStudyPlan(
       messages: [
         {
           role: "system",
-          content: "You are a GATE CSE preparation expert. Create personalized study plans based on user goals, current level, and available time. Return as valid JSON."
+          content: "You are a GATE CS preparation expert. Create personalized study plans based on user goals, current level, and available time. Return as valid JSON."
         },
         {
           role: "user",
-          content: `Create a study plan for GATE CSE 2026 with goals: ${userGoals}, current level: ${currentLevel}, daily time available: ${timeAvailable} hours.`
+          content: `Create a study plan for GATE CS 2026 with goals: ${userGoals}, current level: ${currentLevel}, daily time available: ${timeAvailable} hours.`
         }
       ],
       response_format: { type: "json_object" },
