@@ -1,4 +1,4 @@
-# GATE CSE 2026 Preparation Platform
+# GATE CS 2026 Preparation Platform
 
 A comprehensive AI-powered EdTech platform designed specifically for GATE Computer Science  2026 exam preparation. This intelligent learning system adapts to your performance and provides personalized study recommendations to maximize your preparation efficiency.
 
@@ -69,7 +69,7 @@ npm run dev
 
 5. Open your browser and navigate to http://localhost:5000
 
-## GATE CSE 2026 Subjects Covered
+## GATE CS 2026 Subjects Covered
 - **Algorithms & Data Structures**: Time complexity, sorting, searching, graph algorithms
 - **Database Management Systems**: SQL, normalization, transactions, indexing
 - **Computer Networks**: OSI model, TCP/IP, routing protocols, network security
@@ -80,4 +80,4 @@ npm run dev
 ## License
 - This project is licensed under the MIT License.
 
-## Ready to ace GATE CSE 2026? Start your intelligent preparation journey today!
+## Ready to ace GATE CS 2026? Start your intelligent preparation journey today!
