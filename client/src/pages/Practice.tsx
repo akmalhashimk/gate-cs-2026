@@ -83,7 +83,7 @@ export default function Practice() {
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       <div className="mb-8">
         <h1 className="text-3xl font-bold text-primary-custom mb-2">Practice Center</h1>
-        <p className="text-secondary-custom">Choose your practice mode and start preparing for GATE CSE 2026</p>
+        <p className="text-secondary-custom">Choose your practice mode and start preparing for GATE CS 2026</p>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
