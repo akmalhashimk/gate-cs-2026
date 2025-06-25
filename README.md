@@ -11,13 +11,13 @@ A comprehensive AI-powered EdTech platform designed specifically for GATE Comput
 - **Smart Study Plan Generation**: AI creates customized study schedules based on your goals and availability
 
 ### Advanced Analytics
-- **Real-time Performance Tracking**: Monitor your progress across all GATE CSE subjects
+- **Real-time Performance Tracking**: Monitor your progress across all GATE CS subjects
 - **Detailed Analytics Dashboard**: Comprehensive insights into your study patterns and performance trends
 - **Subject-wise Progress Reports**: Track accuracy, time spent, and improvement areas for each subject
 - **Study Streak Monitoring**: Gamified tracking to maintain consistent study habits
 
 ### Practice Modes
-- **Subject-specific Practice**: Focus on individual GATE CSE subjects
+- **Subject-specific Practice**: Focus on individual GATE CS subjects
 - **Adaptive Practice Sessions**: AI-curated mixed questions based on your current level
 - **Mixed Topic Practice**: Comprehensive preparation across all subjects
 - **Timed Practice Sessions**: Simulate real exam conditions
