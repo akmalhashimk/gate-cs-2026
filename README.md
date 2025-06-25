@@ -48,8 +48,8 @@ A comprehensive AI-powered EdTech platform designed specifically for GATE Comput
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/akmalhk/gate-cse-2026-prep.git
-cd gate-cse-2026-prep
+git clone https://github.com/akmalhk/gate-cs-2026-prep.git
+cd gate-cs-2026-prep
 ```
 
 2. Install dependencies:
