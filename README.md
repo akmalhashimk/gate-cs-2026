@@ -1,6 +1,6 @@
 # GATE CS 2026 Preparation Platform
 
-A comprehensive AI-powered EdTech platform designed specifically for GATE Computer Science  2026 exam preparation. This intelligent learning system adapts to your performance and provides personalized study recommendations to maximize your preparation efficiency.
+A comprehensive AI-powered EdTech platform designed specifically for GATE Computer Science  2026 preparation. This intelligent learning system adapts to your performance and provides personalized study recommendations to maximize your preparation efficiency.
 
 ## Features
 
