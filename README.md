@@ -50,3 +50,34 @@ A comprehensive AI-powered EdTech platform designed specifically for GATE Comput
 ```bash
 git clone https://github.com/akmalhk/gate-cse-2026-prep.git
 cd gate-cse-2026-prep
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Set up environment variables:
+```bash
+export OPENAI_API_KEY=your_openai_api_key_here
+```
+
+4. Start the development server:
+```bash
+npm run dev
+```
+
+5. Open your browser and navigate to http://localhost:5000
+
+## GATE CSE 2026 Subjects Covered
+- **Algorithms & Data Structures**: Time complexity, sorting, searching, graph algorithms
+- **Database Management Systems**: SQL, normalization, transactions, indexing
+- **Computer Networks**: OSI model, TCP/IP, routing protocols, network security
+- **Operating Systems**: Process management, memory management, file systems
+- **Computer Organization & Architecture**: CPU design, memory hierarchy, I/O systems
+- **Theory of Computation**: Finite automata, context-free grammars, Turing machines
+
+## License
+- This project is licensed under the MIT License.
+
+## Ready to ace GATE CSE 2026? Start your intelligent preparation journey today!
